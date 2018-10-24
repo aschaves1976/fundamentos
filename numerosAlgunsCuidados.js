@@ -1,0 +1,6 @@
+console.log("Divisão por Zero vai retornar infinito: " + 7/0)
+console.log(0.1+0.7)
+console.log("10" / 2.0)
+console.log("numero" * 10)
+//console.log(10.toString())
+console.log((10.34567).toFixed(2))
