@@ -8,6 +8,8 @@ const pessoa ={
 }
 
 /**
+ * Utilização de Operador Destructuring em Objetos
+ * 
  * As chaves após a palavra reservada const, representa o operador de desestruturação
  * O que está sendo feito na linha abaixo: tirando do objeto pessoa os atributos nome e idade
  */
